@@ -4,6 +4,12 @@
 
 I created a simple Java application that prints "Hello, Jenkins + Maven!" and set up Jenkins to automatically build it using Maven. This was my first hands-on experience with CI/CD automation.
 
+## Build Success Screenshot
+
+*Screenshot of Jenkins console output showing BUILD SUCCESS:*
+
+![Jenkins Build Success](images/build.png)
+
 ## Project Structure
 
 ```
@@ -30,12 +36,6 @@ hello-java-maven/
 5. **Created Jenkins Job**: Set up Freestyle project with GitHub integration
 6. **Connected to GitHub**: Configured Git source code management
 7. **Ran the Build**: Executed `clean package` Maven goals
-
-## Build Success Screenshot
-
-*Screenshot of Jenkins console output showing BUILD SUCCESS:*
-
-![Jenkins Build Success](images/build.png)
 
 ## Technologies Used
 
