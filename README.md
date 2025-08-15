@@ -35,7 +35,7 @@ hello-java-maven/
 
 *Screenshot of Jenkins console output showing BUILD SUCCESS:*
 
-![Jenkins Build Success](build.png)
+![Jenkins Build Success](images/build.png)
 
 ## Technologies Used
 
